@@ -1,0 +1,47 @@
+.title {
+  transition: transform 0.3s ease;
+}
+
+.title2 {
+  position: absolute;
+  top: 316px;
+  left: 1707px;
+  transition: transform 0.3s ease;
+  z-index: 50;
+  display: flex;
+}
+
+body {
+  margin: 0;
+  /* 필요에 따라 다른 스타일 추가 */
+}
+
+/* 애니메이션 관련 CSS */
+#animation-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100px; /* 필요에 따라 조정 */
+  pointer-events: none;
+}
+.square {
+  width: 108px;
+  height: 108px;
+  background-color: #3498db;
+  position: absolute;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+.clickable-image {
+  cursor: pointer;
+  position: absolute;
+  top: 329.2px;
+  left: 1720.2px;
+  z-index: 100;
+}
+.background {
+  position: relative;
+  z-index: 1000;
+}

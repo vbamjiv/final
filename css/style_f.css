@@ -1,0 +1,270 @@
+.svg-container-f01 {
+  position: absolute;
+  left: 950px;
+  top: 0px;
+  z-index: 0;
+}
+
+.svg-container-f01 path {
+  fill: white;
+  stroke: black;
+  stroke-width: 1px;
+  transition: fill 0.5s ease, stroke 0.3s ease;
+}
+
+.svg-container-f01 path:hover {
+  fill: #ffffff;
+  transition: fill 0.5s ease;
+}
+
+.svg-container-f02 {
+  position: absolute;
+  left: 925px;
+  top: 0px;
+  z-index: 1;
+}
+
+.svg-container-f02 path {
+  fill: white;
+  stroke: black;
+  stroke-width: 1px;
+  transition: fill 0.5s ease, stroke 0.3s ease;
+}
+
+.svg-container-f02 path:hover {
+  fill: #502628;
+}
+
+.svg-container-f03 {
+  position: absolute;
+  left: 786px;
+  top: 0px;
+  z-index: 2;
+}
+
+.svg-container-f03 path {
+  fill: white;
+  stroke: black;
+  stroke-width: 1px;
+  transition: fill 0.5s ease, stroke 0.3s ease;
+}
+
+.svg-container-f03 path:hover {
+  fill: #ffffff;
+}
+
+.svg-container-f04 {
+  position: absolute;
+  left: 770px;
+  top: 0px;
+  z-index: 3;
+}
+
+.svg-container-f04 path {
+  fill: white;
+  stroke: black;
+  stroke-width: 1px;
+  transition: fill 0.5s ease, stroke 0.3s ease;
+}
+
+.svg-container-f04 path:hover {
+  fill: #333ea5;
+}
+
+.svg-container-f05 {
+  position: absolute;
+  left: 655px;
+  top: 0px;
+  z-index: 4;
+}
+
+.svg-container-f05 path {
+  fill: white;
+  stroke: black;
+  stroke-width: 1px;
+  transition: fill 0.5s ease, stroke 0.3s ease;
+}
+
+.svg-container-f05 path:hover {
+  fill: #4e7dce;
+}
+
+.svg-container-f06 {
+  position: absolute;
+  left: 392px;
+  top: 0px;
+  z-index: 5;
+}
+
+.svg-container-f06 path {
+  fill: white;
+  stroke: black;
+  stroke-width: 1px;
+  transition: fill 0.5s ease, stroke 0.3s ease;
+}
+
+.svg-container-f06 path:hover {
+  fill: #ffffff;
+}
+
+.svg-container-f07 {
+  position: absolute;
+  left: 367px;
+  top: 0px;
+  z-index: 6;
+}
+
+.svg-container-f07 path {
+  fill: white;
+  stroke: black;
+  stroke-width: 1px;
+  transition: fill 0.5s ease, stroke 0.3s ease;
+}
+
+.svg-container-f07 path:hover {
+  fill: #333ea5;
+}
+
+.svg-container-f08 {
+  position: absolute;
+  left: 228px;
+  top: 0px;
+  z-index: 7;
+}
+
+.svg-container-f08 path {
+  fill: white;
+  stroke: black;
+  stroke-width: 1px;
+  transition: fill 0.5s ease, stroke 0.3s ease;
+}
+
+.svg-container-f08 path:hover {
+  fill: #ffffff;
+}
+
+.svg-container-f09 {
+  position: absolute;
+  left: 212px;
+  top: 0px;
+  z-index: 8;
+}
+
+.svg-container-f09 path {
+  fill: white;
+  stroke: black;
+  stroke-width: 1px;
+  transition: fill 0.5s ease, stroke 0.3s ease;
+}
+
+.svg-container-f09 path:hover {
+  fill: #c62a2b;
+}
+
+.svg-container-f10 {
+  position: absolute;
+  left: 97px;
+  top: 0px;
+  z-index: 9;
+}
+
+.svg-container-f10 path {
+  fill: white;
+  stroke: black;
+  stroke-width: 1px;
+  transition: fill 0.5s ease, stroke 0.3s ease;
+}
+
+.svg-container-f10 path:hover {
+  fill: #ffb290;
+}
+
+.svg-container-f11 {
+  position: absolute;
+  left: -96px;
+  top: 0px;
+  z-index: 10;
+}
+
+.svg-container-f11 path {
+  fill: white;
+  stroke: black;
+  stroke-width: 1px;
+  transition: fill 0.5s ease, stroke 0.3s ease;
+}
+
+.svg-container-f11 path:hover {
+  fill: #ffffff;
+}
+
+.svg-container-f12 {
+  position: absolute;
+  left: -121px;
+  top: 0px;
+  z-index: 11;
+}
+
+.svg-container-f12 path {
+  fill: white;
+  stroke: black;
+  stroke-width: 1px;
+  transition: fill 0.5s ease, stroke 0.3s ease;
+}
+
+.svg-container-f12 path:hover {
+  fill: #c62a2b;
+}
+
+.svg-container-f13 {
+  position: absolute;
+  left: -260px;
+  top: 0px;
+  z-index: 12;
+}
+
+.svg-container-f13 path {
+  fill: white;
+  stroke: black;
+  stroke-width: 1px;
+  transition: fill 0.5s ease, stroke 0.3s ease;
+}
+
+.svg-container-f13 path:hover {
+  fill: #ff9500;
+}
+
+.svg-container-f14 {
+  position: absolute;
+  left: -276px;
+  top: 0px;
+  z-index: 13;
+}
+
+.svg-container-f14 path {
+  fill: white;
+  stroke: black;
+  stroke-width: 1px;
+  transition: fill 0.5s ease, stroke 0.5s ease;
+}
+
+.svg-container-f14 path:hover {
+  fill: #ffc72e;
+}
+
+.svg-container-f15 {
+  position: absolute;
+  left: -391px;
+  top: 0px;
+  z-index: 14;
+}
+
+.svg-container-f15 path {
+  fill: white;
+  stroke: black;
+  stroke-width: 1px;
+  transition: fill 0.5s ease, stroke 0.3s ease;
+}
+
+.svg-container-f15 path:hover {
+  fill: #0f8440;
+}

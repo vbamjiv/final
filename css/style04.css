@@ -1,0 +1,242 @@
+.c01 {
+  position: absolute;
+  left: 426px;
+  top: 267.61px;
+  z-index: 30;
+  transition: opacity 0.3s ease;
+  width: 540px;
+  height: 540px;
+  border-radius: 50%;
+}
+
+.c01-1 {
+  position: absolute;
+  left: 426px;
+  top: 267.61px;
+  opacity: 0;
+  z-index: 30;
+  transition: opacity 0.3s ease;
+  width: 540px;
+  height: 540px;
+  border-radius: 50%;
+}
+
+.c01:hover {
+  opacity: 0;
+}
+
+.c01-1:hover {
+  opacity: 1;
+}
+
+.c02 {
+  position: absolute;
+  left: 455px;
+  top: 296.61px;
+  z-index: 31;
+  transition: opacity 0.3s ease;
+  width: 482px;
+  height: 482px;
+  border-radius: 50%;
+}
+
+.c02-1 {
+  position: absolute;
+  left: 455px;
+  top: 296.61px;
+  opacity: 0;
+  z-index: 31;
+  transition: opacity 0.3s ease;
+  width: 482px;
+  height: 482px;
+  border-radius: 50%;
+}
+
+.c02:hover {
+  opacity: 0;
+}
+
+.c02-1:hover {
+  opacity: 1;
+}
+
+.c03 {
+  position: absolute;
+  left: 469px;
+  top: 313.61px;
+  z-index: 32;
+  transition: opacity 0.3s ease;
+  width: 454px;
+  height: 454px;
+  border-radius: 50%;
+}
+
+.c03-1 {
+  position: absolute;
+  left: 469px;
+  top: 313.61px;
+  opacity: 0;
+  z-index: 32;
+  transition: opacity 0.3s ease;
+  width: 454px;
+  height: 454px;
+  border-radius: 50%;
+}
+
+.c03:hover {
+  opacity: 0;
+}
+
+.c03-1:hover {
+  opacity: 1;
+}
+
+.c04 {
+  position: absolute;
+  left: 468.95px;
+  top: 345.31px;
+  z-index: 33;
+  transition: opacity 0.3s ease;
+}
+
+.c04-1 {
+  position: absolute;
+  left: 468.95px;
+  top: 345.31px;
+  opacity: 0;
+  z-index: 33;
+  transition: opacity 0.3s ease;
+}
+
+.c04:hover {
+  opacity: 0;
+}
+
+.c04-1:hover {
+  opacity: 1;
+}
+
+.c05 {
+  position: absolute;
+  left: 521.77px;
+  top: 390.5px;
+  z-index: 34;
+  transition: opacity 0.3s ease;
+}
+
+.c05-1 {
+  position: absolute;
+  left: 521.77px;
+  top: 390.5px;
+  opacity: 0;
+  z-index: 34;
+  transition: opacity 0.3s ease;
+}
+
+.c05:hover {
+  opacity: 0;
+}
+
+.c05-1:hover {
+  opacity: 1;
+}
+
+.c06 {
+  position: absolute;
+  left: 543.58px;
+  top: 410.69px;
+  z-index: 35;
+  transition: opacity 0.3s ease;
+}
+
+.c06-1 {
+  position: absolute;
+  left: 543.58px;
+  top: 410.69px;
+  opacity: 0;
+  z-index: 35;
+  transition: opacity 0.3s ease;
+}
+
+.c06:hover {
+  opacity: 0;
+}
+
+.c06-1:hover {
+  opacity: 1;
+}
+
+.c07 {
+  position: absolute;
+  left: 441.17px;
+  top: 267.61px;
+  z-index: 36;
+  transition: opacity 0.3s ease;
+}
+
+.c07-1 {
+  position: absolute;
+  left: 441.17px;
+  top: 267.61px;
+  opacity: 0;
+  z-index: 36;
+  transition: opacity 0.3s ease;
+}
+
+.c07:hover {
+  opacity: 0;
+}
+
+.c07-1:hover {
+  opacity: 1;
+}
+
+.c08 {
+  position: absolute;
+  left: 477.04px;
+  top: 296.61px;
+  z-index: 37;
+  transition: opacity 0.3s ease;
+}
+
+.c08-1 {
+  position: absolute;
+  left: 477.04px;
+  top: 296.61px;
+  opacity: 0;
+  z-index: 37;
+  transition: opacity 0.3s ease;
+}
+
+.c08:hover {
+  opacity: 0;
+}
+
+.c08-1:hover {
+  opacity: 1;
+}
+
+.c09 {
+  position: absolute;
+  left: 635px;
+  top: 476.61px;
+  z-index: 37;
+  transition: opacity 0.3s ease;
+}
+
+.c09-1 {
+  position: absolute;
+  left: 635px;
+  top: 476.61px;
+  opacity: 0;
+  z-index: 37;
+  transition: opacity 0.3s ease;
+}
+
+.c09:hover {
+  opacity: 0;
+}
+
+.c09-1:hover {
+  opacity: 1;
+}

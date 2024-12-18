@@ -1,0 +1,126 @@
+.circle01 {
+  position: absolute;
+  width: 547px;
+  height: 547px;
+  background-color: white;
+  border: 3px solid black;
+  border-radius: 50%;
+  left: 1127px;
+  top: 262px;
+  transition: opacity 0.5s ease;
+  z-index: -2;
+}
+
+.circle01:hover {
+  background-color: #0f8440;
+  border: none;
+}
+
+.circle02 {
+  position: absolute;
+  width: 511px;
+  height: 511px;
+  background-color: white;
+  border: 3px solid black;
+  border-radius: 50%;
+  left: 1118px;
+  top: 280px;
+  z-index: -1;
+}
+
+.circle02:hover {
+  background-color: #ffc72e;
+  border: none;
+}
+
+.circle03 {
+  position: absolute;
+  width: 547px;
+  height: 547px;
+  background-color: white;
+  border: 3px solid black;
+  border-radius: 50%;
+  left: 610px;
+  top: 262px;
+  z-index: 5;
+}
+
+.circle03:hover {
+  background-color: #0f8440;
+  border: none;
+}
+
+.circle04 {
+  position: absolute;
+  width: 511px;
+  height: 511px;
+  background-color: white;
+  border: 3px solid black;
+  border-radius: 50%;
+  left: 601px;
+  top: 280px;
+  z-index: 5;
+}
+
+.circle04:hover {
+  background-color: #ffc72e;
+  border: none;
+}
+
+.circle05 {
+  position: absolute;
+  width: 547px;
+  height: 547px;
+  background-color: white;
+  border: 3px solid black;
+  border-radius: 50%;
+  left: 167px;
+  top: 262px;
+  z-index: 10;
+}
+
+.circle05:hover {
+  background-color: #0f8440;
+  border: none;
+}
+.circle06 {
+  position: absolute;
+  width: 511px;
+  height: 511px;
+  background-color: white;
+  border: 3px solid black;
+  border-radius: 50%;
+  left: 158px;
+  top: 280px;
+  z-index: 10;
+}
+
+.circle06:hover {
+  background-color: #ffc72e;
+  border: none;
+}
+
+.back {
+  position: absolute;
+  left: 1430px;
+  top: 51px;
+  z-index: -50;
+}
+
+.drawing-path {
+  stroke-dasharray: 5; /* 경로의 총 길이 */
+  stroke-dashoffset: 100; /* 초기 오프셋 설정 */
+  animation: draw 100s linear infinite;
+}
+
+@keyframes draw {
+  0% {
+    stroke-dashoffset: 2000; /* 초기 상태 */
+  }
+  50% {
+    stroke-dashoffset: 0; /* 경로가 완전히 그려진 상태 */
+  }
+  100% {
+    stroke-dashoffset: 2000; /* 다시 초기 상태로 돌아감 */
+  }
+}
